@@ -1,3 +1,9 @@
+## My GitHub Repositories
+
+![repository's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolzyd9107&repo=GKI_KernelSU_SUSFS&show_icons=true&theme=github_dark_dimmed&locale=cn)
+
+## My Github Stats
+
 ![coolzyd9107's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolzyd9107&show_icons=true&theme=github_dark_dimmed&locale=cn)
 
 <!--
