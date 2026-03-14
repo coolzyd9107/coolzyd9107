@@ -1,8 +1,8 @@
-## 我的GitHub统计
+## 📊 我的GitHub统计
 
 ![coolzyd9107's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolzyd9107&show_icons=true&theme=github_dark_dimmed&locale=cn)
 
-## 我的现有储存库
+## 🏚️ 我的现有储存库
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coolzyd9107&repo=GKI_KernelSU_SUSFS&theme=github_dark_dimmed&show_owner=true)](https://github.com/coolzyd9107/GKI_KernelSU_SUSFS)
 
