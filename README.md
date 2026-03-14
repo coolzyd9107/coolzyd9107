@@ -1,10 +1,10 @@
-## My GitHub Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coolzyd9107&repo=GKI_KernelSU_SUSFS)](https://github.com/coolzyd9107/GKI_KernelSU_SUSFS)
-
-## My Github Stats
+## 我的GitHub统计
 
 ![coolzyd9107's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolzyd9107&show_icons=true&theme=github_dark_dimmed&locale=cn)
+
+## 我的现有储存库
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coolzyd9107&repo=GKI_KernelSU_SUSFS&theme=github_dark_dimmwd&locale=cn)](https://github.com/coolzyd9107/GKI_KernelSU_SUSFS)
 
 <!--
 **coolzyd9107/coolzyd9107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
