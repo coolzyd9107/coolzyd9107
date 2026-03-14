@@ -4,7 +4,7 @@
 
 ## 📊 我的GitHub统计
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=coolzyd9107&show_icons=true&commits_year=this_year&theme=github_dark_dimmed&locale=cn)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=coolzyd9107&show_icons=true&commits_year=this_year&theme=github_dark_dimmed&locale=cn&commits_year=2026)
 
 ## 🏚️ 我的现有储存库
 
