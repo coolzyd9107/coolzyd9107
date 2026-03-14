@@ -1,4 +1,4 @@
-![coolzyd9107's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolzyd9107&show_icons=true&theme=github_dark_dimmed&locale=cn&commits_year=2026)
+![coolzyd9107's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolzyd9107&show_icons=true&theme=github_dark_dimmed&locale=cn)
 
 <!--
 **coolzyd9107/coolzyd9107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
