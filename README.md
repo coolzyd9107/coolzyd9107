@@ -2,14 +2,6 @@
 
 我是一名在校高中生，平时喜欢折腾下编译内核什么的~ (超小声: 其实我是fw，期待大佬指导)
 
-## 📊 我的GitHub统计
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=coolzyd9107&show_icons=true&commits_year=2026&theme=github_dark_dimmed&locale=cn)
-
-## 🏚️ 我的现有储存库
-
-[![My Repo stats](https://github-readme-stats.vercel.app/api/pin/?username=ReSukiSU-GKI&repo=GKI_KernelSU_SUSFS&theme=github_dark_dimmed&show_owner=true)](https://github.com/ReSukiSU-GKI/GKI_KernelSU_SUSFS)
-
 <!--
 **coolzyd9107/coolzyd9107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
